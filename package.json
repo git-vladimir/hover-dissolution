@@ -1,0 +1,15 @@
+{
+  "name": "hover-dissolution",
+  "version": "1.0.0",
+  "source": "src/hover-dissolution.js",
+  "module": "dist/hover-dissolution.es.js",
+  "main": "dist/hover-dissolution.js",
+  "umd:main": "dist/hover-dissolution.umd.js",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "gsap": "^2.0.2",
+    "three": "^0.99.0"
+  }
+}
